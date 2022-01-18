@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "846309959363",
+    "project_id": "scroll-feed-from",
+    "storage_bucket": "scroll-feed-from.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846309959363:android:cff03090b44ddac21fa476",
+        "android_client_info": {
+          "package_name": "com.ezcodeezlife.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "846309959363-tfhsji55f5hgh2e817oolo9qdirbs8bs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO3mq2KKPw5Qc7OcUlZwcyAE9eKM8SPuw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "846309959363-tfhsji55f5hgh2e817oolo9qdirbs8bs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-8251732556629149~4480954926"
+    }
+  ],
+  "configuration_version": "1"
+}
